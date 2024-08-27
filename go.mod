@@ -1,4 +1,4 @@
-module learn1/githubpack
+module github.com/lialon/githubpack
 
 go 1.21.5
 
